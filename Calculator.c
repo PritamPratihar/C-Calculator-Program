@@ -1,4 +1,4 @@
-// Build a C programme of calculator 
+// Build a C programme of Simple calculator 
 #include<stdio.h>
 float result;
 
